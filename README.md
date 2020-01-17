@@ -11,5 +11,5 @@ Citation
 
 VKF is based on this paper
 
-Piray P, Daw ND, 2019, "A simple model for learning in uncertain environments", biorxiv
+Piray P, Daw ND, 2019, "A simple model for learning in volatile environments", biorxiv
 http://dx.doi.org/10.1101/701466
